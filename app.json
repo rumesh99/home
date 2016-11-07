@@ -1,0 +1,8 @@
+{
+  "name": "Home Automation",
+  "description": "Rumesh - Home automation",
+  "repository": "https://github.com/rumesh99/home",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}

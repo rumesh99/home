@@ -1,0 +1,25 @@
+{
+  "name": "home-automation",
+  "version": "0.2.5",
+  "description": "Home Automation communicator of Rumesh",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socket.io": "1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rumesh99/home"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
